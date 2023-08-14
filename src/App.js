@@ -11,7 +11,7 @@ export default function App() {
     <div>
       <h1>hello {name}</h1>
       <p>Start editing to see some magic happen :)</p>
-      <button onClick={() => setName('Datta')}> Change Name</button>
+      <button onClick={() => setName('Dattatray')}> Change Name</button>
     </div>
   );
 }
